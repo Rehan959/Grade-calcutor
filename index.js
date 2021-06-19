@@ -33,7 +33,8 @@ else if(per <= 70)
     Grade.style.color="yellow";
     percText.style.color="yellow";
 }
-if(per <= 40){
+if(per <= 40)
+{
     Grade.innerHTML="Your Grade is : D";
     Grade.style.color="red";
     percText.style.color="red";
